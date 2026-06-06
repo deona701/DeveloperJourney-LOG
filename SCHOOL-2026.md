@@ -1,0 +1,878 @@
+Physics 45 Logs
+
+Week 0
+
+Saturday - February 14, 2026
+· Gym: Legs (40min)
+· Physics — 30–45 min: Skip!
+· Guitar — 20 min: Learned Heart Full of Pride (40min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 33-43 (20min)
+
+Sunday - February 15, 2026
+· Physics — 45–60 min: Kinematics in 1D, Three Problems for Theory and Equations, Solved 1 Olympiad Problem, 1/68 Complete (50min)
+· Math — 20 min: Symmetry in Algebra (25min)
+· Programming — 20 min: Functions (C#), Void Type Functions (C#), Difference between Void and Return Type Functions (C#) (20m)
+· Writing — 20 min: Fiction Novel: Outline and Working on a Character (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 43-52 (20min)
+· Guitar — 20 min: Learned Boys Don't Cry (40m)
+
+Used 1/2 skips: Saturday - Physics
+
+
+
+Week 1
+
+Monday – 16 February, 2026
+· Gym: Upper Body (1h)
+· Physics — 45–60 min: Freely Falling Bodies, 3 Problems for Freely Falling Bodies, Kinematics in 2D Introduction, 2 Kinematics in 2D Problems, Projectile Motion 1D Solved 2 Problems, Solved 1 Olympiad Problem, 2/68 Complete (85min)
+· Programming — 20 min: Finish Create and Run Simple C# Console Applications for Microsoft C# Certificate (30min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 52-73 (40min)
+
+Tuesday - 17 February, 2026
+· Gym: Lower Body (25min)
+· Physics — 45–60 min: Projectile Motion in 2D, Solved 3 Projectile Motion in 2D Problems, Solved 2 Olympiad Problems, 4/68 Complete (58min)
+· Writing — 20 min: Fiction Novel: Outline (20min)
+· Science Reading — 20 min: The Dialogues by Clifford V. Johnson 0-78 (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 73-102 (30min)
+
+Wednesday - 18 February, 2026
+· Physics — 45–60 min: 45m Physics Class Today, How Physics Equations are Connected, Relative Motion, Testing Physics Knowledge with Heavy Theory and Multi-Step Equations for 70m (115min)
+· Math — 20 min: Symmetrical Algebraic Equations (20min)
+· Programming — 20 min: Worked on making a Utility Toolkit with a Unit Converter, Tip Calculator, Password Strength Checker and Math Helper (25min)
+· Writing — 20 min: Fiction Novel: Outline (22min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 102-113 (22min)
+
+Thursday - 19 February, 2026
+· Gym: Push (40min)
+· Physics — 45–60 min: 30min Private Physics Class with Teacher for Electricity Fundamental Concepts, 30min Writing Down all Equations Needed, 30min Studying Electricity Fundamental Concepts in Class (90min)
+· Math — 20 min: BMO Round 2, 2005 Olympiad Problem Solved, Strange Identities and Useful Tricks, Symmetric Sums and Factoring Identities with Example (20min)
+· Science Reading — 20 min: Physics for Entertainment 0-27, For The Love Of Physics 0-23 (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 113-144 (40min)
+
+Friday - 20 February, 2026
+· Gym: Pull + Random Boxing Workout (1h40min)
+· Physics — 45–60 min: Solving Kinematics Equations in Class, Solved 2 Olympiad Problems, 6/68 Complete (50min)
+· Programming — 20 min: Worked on Utility Toolkit Project with a Unit Converter, Tip Calculator, Password Strength Checker and Math Helper, Worked on Unit Converter for Temperature (20min)
+· Writing — 20 min: Fiction Novel: Outline (20min)
+
+Saturday - 21 February, 2026
+· Gym: Walking (3h+)
+· Guitar — 20 min: Skip (Unwillingly)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 144-170 (20min)
+
+Sunday - 22 February, 2026
+· Physics — 45–60 min: Skip
+· Programming — 20 min: Worked on Utility Toolkit Project, Worked on Unit Converter for Temperature (30min)
+· Study for School — 20 min: Biology Homework (30min)
+· Writing — 20 min: Fiction Novel: Outline (20min)
+· Science Reading — 20 min: For The Love Of Physics by Walter Lewin 23-37 (20min)
+· Guitar — 20 min: Learned Opening Credits by Opeth, Learning Burden by Opeth (50min)
+
+Used 2/2 Skips: Saturday - Guitar, Sunday - Physics
+
+Week 2
+
+Monday – 23 February, 2026
+· Gym: Upper Body
+· Physics — 45–60 min: Kinematics in 1D and 2D, Solving Kinematics Problems (45min)
+· Programming — 20 min: Worked on Utility Toolkit Project, Worked on Unit Converter for Temperature, Math Helper and Tip Calculator (20min)
+· School Block — 20 min: Math (20min), German (10min) (30min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 170-185 (20min)
+
+Tuesday - 24 February, 2026
+· Gym: Sick, can't go.
+· Physics — 45–60 min: Sick, can't.
+· Writing — 20 min: 0
+· Reading — 20 min: 0
+· Study for School (Extra) — 20 min: Albanian (16min), Geography (20min)
+
+Wednesday - 25 February, 2026
+· Physics — 45–60 min: Skip
+· Math — 20 min: Strange Identities and Useful Tricks, Substitution Tricks (Vieta Jumping/Swapping Roots) (20min)
+· Programming — 20 min: Worked on Utility Toolkit Project Readability, Learned how to use Classes (38min)
+· School Block — 20 min: Macedonian (1h)
+· Writing — 20 min: Fiction Novel: Outline (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 185-200 (20min)
+· Guitar (Extra): Random Practice (40min)
+
+Thursday - 26 February, 2026
+· Gym: Still sick. Unfortunately.
+· Physics — 45–60 min: Relative Motion Theory, Solving 2 Multiple Step Relative Motion Problems, Solved 1 Olympiad Problem, 7/68 Complete (1h)
+· Math — 20 min: Vieta Jumping (20min)
+· School Block — 20 min: Macedonian (10min), Albanian (15min)
+· Science Reading — 20 min: For The Love Of Physics by Walter Lewin 37-51 (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky 200-214 (20min)
+· Guitar (Extra): Random Practice (1h)
+
+Friday - 27 February, 2026
+· Gym: My mom would kill me if I went.
+· Physics — 45–60 min: 0
+· Programming — 20 min: 0
+· Writing — 20 min: 0
+
+Saturday - 28 February, 2026
+· Gym: Mom would murder me.
+· Physics — 30–45 min: Newton's Laws of Motion, Equations about Newton's Laws, Gravity, Normal Force, Friction, Free Body Diagrams (1h30min)
+· Science Reading — 20 min: Cosmos (DK Publishing) 0-20 (20min)
+
+Sunday - 1 March, 2026
+· Physics — 45–60 min: Newton's Laws, Constraint Forces, Friction Force, Friction Force Problem, Circular Motion, Centripetal Acceleration, Centripetal Force, Centrifugal Force, Circular Motion Problems (1h4min)
+· School Block — 30 min: Macedonian (40min)
+· Writing — 20 min: Fiction Novel Outline (10min)
+· Reading — 20 min: Skip
+
+Used 2/2 Skips: Wednesday - Physics, Sunday - Reading
+
+
+
+Week 3
+Monday – 2 March, 2026
+· Gym: Upper Body
+· Physics — 45–60 min: Circular Motion, Uniform Circular Motion, Non-Uniform Circular Motion, Circular Motion Equations, Tension Equations, 14 Equations Total (1h20min)
+· Programming — 20 min: Add Looping Logic to Your Code Using the do-while and while Statements in C#, Guided Project - Develop Conditional Branching and Looping Structures in C#, Challenge Project - Develop Branching and Looping Structures in C#, Trophy - Add Logic to C# Console Applications, Choose the Correct Data Type in Your C# Code, Convert Data Types Using Casting and Conversion Techniques in C#, Perform Operations on Arrays Using Helper Methods in C# (20min)
+· School Block — 20 min: Macedonian (1h15min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (214-273) (1h10min)
+
+Tuesday - 3 March, 2026
+· Gym: Lower Body
+· Physics — 45–60 min: Multibody Systems (77min), Newtons Laws for School (30min) (107min)
+· Writing — 20 min: Fiction Novel Outline (50min)
+· School Block — 20 min: Geography (10min), Albanian (10min), Physics (30min)
+· Extra Reading — 20 min: On Earth We're Briefly Gorgeous, 0-30/186 Pages (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (273-326) (65min)
+
+Wednesday - 4 March, 2026
+· Physics — 45–60 min: Newtons Laws and Torque for School (30min), Center of Mass (20min) (50min)
+· Math — 20 min: Strange Identities and Useful Tricks, Cauchy Schwarz and Rearrangement, Symmetric Polynomial Tricks, Telescoping Sums, Sophie Germain Identity, Strategic Substitution (20min)
+· School Block — 20 min: Physics (30min), Macedonian (5min, HW), Chemistry (5min, HW), Albanian (10min)
+· Programming — 20 min: Skip
+· Writing — 20 min: Fiction Novel Outline (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (326-353) (40min)
+
+Thursday - 5 March, 2026
+· Gym: Push Day
+· Physics — 45–60 min: Center of Mass, 3 Center of Mass Problems, Momentum, Impulse, Impulse-Momentum Theorem, Momentum 3 Problems, Impulse 3 Problems, Momentum-Impulse 2 Problems (1h40min)
+· School Block — 30 min: Albanian (30min), Physics
+· Extra Reading — 20 min: On Earth We're Briefly Gorgeous, 30-67/186 Pages (30min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (353-363) (20min)
+
+Friday - 6 March, 2026
+· Gym: Pull Day
+· Physics — 45–60 min: Momentum and Impulse 2 Problems, Elasticity Basics (30min, school), Stress and Strain, Young's Modulus, Hooke's Law, 12 Elasticity Problems (1h35min) (2h05min)
+· Programming — 20 min: C# Classes, Methods, Static, Return Keyword, Made GitHub Account, Finished working on Utility Toolkit: Math Helper, Password Strength Checker, Tip Calculator, Temperature Converter (40min)
+· Writing — 20 min: Testing Fiction Novel Possible Twist, Writing Future Scene (1h)
+· Reading (Extra): Demons by Fyodor Dostoevsky (363-377) (20min)
+
+Saturday - 7 March, 2026
+· Physics — 30–45 min: Work, Energy and Power, Potential Energy, Kinetic Energy, Work-Energy Theorem, Energy and Work Diagrams (1h), Power, Work and Energy 3 Problems (25min), 
+· Guitar — 20 min: Learned Suada by Plavi Orkestar (50min)
+· Extra Reading — 20 min: On Earth We're Briefly Gorgeous, 67-92/186 Pages (30min)
+
+Sunday - 8 March, 2026
+· Gym: Boxing Workout 
+· Physics — 45–60 min: Energy and Work 3 Problems Solved, Collisions, Types of Collisions, 3 Collision Problems Solved Of Each Different Type of Collision (1h5min), 
+· Programming — 20 min: Todolist Program (25min)
+· School Block — 20 min: Biology (1h21min)
+· Writing — 20 min: Skip (Unwillingly)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (377-400) (35min)
+· Guitar — 20 min: Practice (25min)
+
+Used 2/2 Skips: 
+Wednesday - Programming 
+Sunday - Writing
+
+Week 4
+Monday – 9 March, 2026
+· Gym: Lower Body
+· Physics — 45–60 min: Solved 5 Long Collision Problems (1h16min)
+· Programming — 20 min: Modify the Content of Strings Using Built-In String Data Type Methods in C#, Guided Project - Work with Variable Data in C#, Challenge Project - Work with Variable Data In C#, Trophy - Work with Variable Data in C# Console Applications, Write Your First C# Method, Create C# Methods with Parameters, Create C# Methods that Return Values (20min)
+· School Block — 20 min: Biology (30min), History (30min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (400-420) (24min)
+
+Tuesday - 10 March, 2026
+· Gym: Upper Body, Stretching
+· Physics — 45–60 min: Solved 3 Long Collision Problems (40min), Rotational Kinematics (44min), Making Physics 90 Question Test (30min) (1h54min)
+· School Block (Extra): Macedonian (5min), Biology (18min), Turkish (10min)
+· Writing — 20 min: Fiction Novel Outline, Writing Future Scene (36min)
+· Extra Reading — 20 min: On Earth We're Briefly Gorgeous, 92-113/186 Pages (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (420-449) (36min)
+
+Wednesday - 11 March, 2026
+· Physics — 45–60 min: Topics Recapitulation (30min)
+· Programming — 20 min: C# Microsoft Exam, Claimed C# Certificate with 74/80 Questions Correct (1h)
+· Math — 20 min: Introduction to Trigonometry, How Your Computer Calculate Trigonometric Functions (20min)
+· School Block — 20 min: Biology (42min)
+· Writing — 20 min: Fiction Novel Outline (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (449-471) (20min)
+
+Thursday - 12 March, 2026
+· Gym: Lower Body 
+· Physics — 45–60 min: Revising (20min), 
+· Programming — 20 min: Learning Unity by Attempting to Make a Flappy Bird Game (40min)
+· School Block — 30 min: Turkish (1h5min)
+· Extra Reading — 20 min: On Earth We're Briefly Gorgeous, 113-148/186 Pages (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (471-492) (20min)
+
+Friday - 13 March, 2026
+· Gym: Upper Body
+· Physics — 45–60 min: 30 Physics Questions (50min), Warm-Up (20min), One Olympiad Problem on Uniform Velocity and Uniform Acceleration (32min)
+· Programming — 20 min: Learning to use Unity (30min)
+· School Block (Extra): Chemistry (20min)
+· Writing — 20 min: Came up with another writing idea, Fiction Novel Outline (20min)
+Reading (Extra): Demons by Fyodor Dostoevsky (492-505) (12min)
+
+Saturday - 14 March, 2026
+· Physics — 30–45 min:  Solving 2 Olympiad Problems, 4 Problems Similar To Them (1h25min), Solved One Olympiad Problem and One Similar (50min), Incline Plane Problems (30min) (2h45min)
+· Guitar — 20 min:  Learned Babydoll by Dominic Fike, Learned Sailor Song, Practiced Paranoid (25min)
+· Extra Reading — 20 min: On Earth We're Briefly 
+
+Sunday - 15 March, 2026
+· Physics — 45–60 min: Solved Three Olympiad Problems, Redid them Five Times (1h), Solved One Olympiad Problem and Redid Twice (35min), 
+· Math — 20 min: Decimals (22min)
+· Programming — 20 min: Skip
+· School Block — 30 min: Chemistry (50min), Math (22min)
+· Writing — 20 min: Skip
+· Reading — 20 min: Demons by Fyodor Dostoevsky (505-523) (20min)
+· Guitar — 20 min: Practice (24min)
+
+Used 2/2 Skips: 
+Sunday: Programming 
+Sunday: Writing
+Used 1/2 Replaces: 
+Thursday: Math->Programming
+
+
+
+Week 5
+Monday – 16 March, 2026
+· Gym: Upper Body
+· Physics — 45–60 min: Did 2 Olympiad Problems (30min)
+· Math — 20 min: Decimals, Absolute Value (30min)
+· School Block — 20 min: German (30min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (523-540) (20min)
+
+Tuesday - 17 March, 2026
+· Gym: Lower Body
+· Physics — 45–60 min: Fluids, Density, Buoyant Force (40min), Redo Question 12 (8min) (48min)
+· School Block — 20 min: Math (1h30min)
+· Writing — 20 min: Fiction Novel Outline (20min)
+· Extra Reading — 20 min: The Iliad by Homer (47-80) (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky (540-571) (38min)
+
+Wednesday - 18 March, 2026
+· Physics — 45–60 min: Solved 2 Olympiad Problems, Did 1 Olympiad Problem From Days Ago, Practiced Problem 31 in More Depth (1h5min)
+· Math — 20 min: Absolute Values, Square Roots (50min)
+· Programming — 20 min: Learning Unity (20min)
+· Writing — 20 min: Friday Make-up 
+· Reading — 20 min: Demons by Fyodor Dostoevsky (571-644) (1h15min)
+
+Thursday - 19 March, 2026
+· Gym: Push
+· Physics — 45–60 min: Solved 2 Olympiad Problems, Practiced Both Problems in More Depth (1h10min)
+· Programming — 20 min: Learning Unity (20min)
+· Extra Reading — 20 min: The Iliad by Homer (80-118) (20min)
+· Reading — 20 min: Demons by Fyodor Dostoevsky FINISHED (644-694) (45min)
+
+Friday - 20 March, 2026
+· Gym: Pull
+· Physics — 45–60 min: Solved questions 61, 62, 63, 66, and struggled to understand 63 and 66, redid them multiple times (1h)
+· Programming — 20 min: Started Unity Essentials Pathway, Completed 1-5 Tutorials (1h)
+· Writing — 20 min: Outline of Fiction Novel (50min)
+
+Saturday - 21 March, 2026
+· Physics — 30–45 min: Solved Questions 71 and 72, Repeated Question 72 and Found Easier Method (42min)
+· Guitar — 20 min: Practice (50min)
+· Extra Reading — 20 min: A Christmas Carol by Charles Dickens (0-26) (20min)
+
+Sunday - 22 March, 2026
+· Gym: Skip
+· Physics — 45–60 min: Solved Two Olympiad Problems, Went over a few other Problems (19/68 Solved) (40min)
+· Math — 20 min: Law of Sines, Law of Cosines, Practice with Law of Sines and Cosines (28min)
+· Programming — 20 min: Finished Unity Editor Essentials, Got 5/5 On Quiz, Began 3D Essentials, Finished First Two Tutorials Out Of Five (40min)
+· Writing — 20 min: Outline of Fiction Novel, Wrote Scene Between Two Characters (30min)
+· Reading — 20 min: A Christmas Carol by Charles Dickens (26-64) (38min)
+· Guitar — 20 min: Remember Me; Remember You (30min)
+
+Used 1/2 Skips: 
+Sunday - Gym
+Used 0/2 Replaces: 
+
+
+
+Week 6
+Monday - 23 March, 2026
+· Gym: Will Make Up
+· Physics — 60–120 min: Solved Problem 79 Twice (30min), Solved Problems 82, 83, 84 (48min) (78min)
+· Reading — 20 min: A Christmas Carol by Charles Dickens FINISHED (64-85) (40min), Chimes by Charles Dickens 0-42 (20min), (60min)
+
+Tuesday - 24 March, 2026
+Gym: Upper Body
+· Physics — 60–120 min: Solve Q86 (12min), Solved Questions 87, 88 (45min), Solved Q92 (18min) (75min)
+· Writing — 20 min: Outline of Fiction Novel, Writing Monologue Scene (26min)
+
+Wednesday - 25 March, 2026
+· Gym: Lower Body
+· Physics — 90–120 min: Solved Q93, Q96, Q97, Q98 (55min), Solved Q100, Q102 both solutions (35min) (90min)
+· Reading — 20 min: Chimes by Charles Dickens 42-61 (20min)
+
+Thursday - 26 March, 2026
+· Gym: Push
+· Physics (Problems) — 60–120 min: Solved Q107, Q110, Q116 (2x) (50min), Solved Q119, Q130 (23min) (72min)
+· Physics (Theory) — 30–90 min: Rotational Kinematics Solved 6 Problems (34min), Solved 5 More Rotational Kinematics Problems (14min) (48min)
+· Reading — 20 min: The Invisible Man by H.G Wells (33-79/154) (Books starts at page 33) (65min)
+Total Physics Time: 120min = 2h
+
+Friday - 27 March, 2026
+· Gym: Pull
+· Physics (Theory) — 30–90 min: Rotational Dynamics, Solved Three Rotatinal Dynamics Problems (50min), Going Over Past Topics With Fundamentals of Physics by David Halliday, Jearl Walker, and Robert Resnick (30min), Going Over Past Topics With Fundamentals of Physics by David Halliday, Jearl Walker, and Robert Resnick (25min) (105min)
+· Reading — 20 min: The Invisible Man by H.G Wells (79-114/154) (45min)
+Total Physics Time: 105min = 1h45min
+
+Saturday - 28 March, 2026
+· Gym: Legs
+· Physics (Theory) — 30–90 min: Center of Mass and Linear Momentum, Rotation, Torque, Angular Momentum, All Studied Using Fundamentals of Physics by David Halliday, Jearl Walker, and Robert Resnick (90min), Solving Rotation Problems (30min), Gravitation, Gravitation Near Earth's Surface, Gravitation Inside Earth, Gravitational Potential Energy, Planets and Satellites: Kepler's Laws, Satellites: Orbits and Energy (45min), Fluids Unit Started, Density and Pressure, Three Density and Pressure Problems Solved, Fluids at Rest, Two Fluids at Rest Problems Solved, Measuring Pressure (60min), Pascal's Principle (15min) (240min)
+· Writing — 20 min: Journal Entry (20min) 
+· Guitar — 20 min: Practice (30min)
+· Reading — 20 min: The Invisible Man by H.G Wells (114-154/154) (55min)
+Total Physics Time: 240min = 4h
+
+Sunday - 29 March, 2026
+· Physics (Problems) — 60–120 min: Solved Olympiad Problems, Solved Q23, Q33, Q37 (40min), Solved Q64, Q70, Q80, Q85, Q89 (32min) (72min)
+· Physics (Theory) — 30–90 min: Archimedes Principal, Solved Multi-step Archimedes Principal Problem (30min), Archimedes Principal, Bernoulli's Equation, Solved Two Problems Using Bernoulli's Equation (100min), Solved Four Problems for Fluidity (20min) (150min)
+· Writing — 20 min: Wrote a Poem (20min)
+· Reading — 20 min: The Food of The Gods by H.G Wells (163-179/349) (book starts at page 163) (20min)
+· Guitar — 20 min: Practice (35min)
+Total Physics Time: 222min = 3h42mins 
+
+Used 0/2 Skips
+Used 0/2 Replaces
+
+
+
+Week 7
+Monday - 30 March, 2026
+· Gym: Upper
+· Physics (Problems) — 60–120 min: Q95, Q99 (32min), Q104, Q109 (18min) (50min)
+
+Tuesday - 31 March, 2026
+· Gym: Legs
+· Physics — 60–120 min: Solved Problems 1,2,3,4,5/5 from Muncipal Physics Competition in 2025 (80min)
+ 
+Wednesday - 1 April, 2026
+· Physics — 90–120 min: Solved Problems 1,2,3,4,5/5 Of The Regional Physics Competition 5th April, 2025 (50min) Solved From Olympiad Book Q3, Q12, Q17 (45min), Solved From Olympiad Book Q20, Q23, Q31, Q33, Q37, Q43 (60min), 
+
+Thursday - 2 April, 2026
+· Gym: Push
+· Physics — 60–120 min: Q61, Q62, Q63, Q64, Theory about Projectile Motion/Momentum/Impulse (100min), Q65, Q66 (45min), Q67, Q68, Q69, Q70, Q71 (40min)
+
+Friday - 3 April, 2026
+· Gym: Pull
+· Physics — 60–120 min: Q72 (20min), Q73, Q75, Q76, Question about a Disc, Question about Gravity (60min), Q77, Q78 (40min)
+· Reading — 20 min: A Short History of Nearly Everything by Bill Bryson (0-51/573) (44min)
+
+Saturday - April 4th, 2026 (Day of the Competition)
+· Gym: Skip
+=== Final Results: 37/100 (Pass to Nationals)
+
+Sunday - April 5th, 2026
+·    Beginning of Different Schedule.
+· Physics (Formula & Concept Review): Projectile Motion (25min)
+· Physics (Problem Solving – Mixed Olympiad Set):  Solved
+
+
+
+
+*following logs show a week skipped due to a trip to italy*
+
+
+
+
+Week 1
+Monday - 13 April, 2026 
+• Read - (20min+): Stoner by John Williams (0-39/288) (35min)
+• Astronomy - (20min+): General Astronomy Lecture 2 - The Ancient Views of The Heavens (26min)
+I'm still in Italy so I won't be able to do too much.
+
+Tuesday - 14 April, 2026
+• Workout - Gym Session: Home Full Body Session 
+• Physics - (30min+): Thermodynamics (30min)
+• Write - (20min+): Fiction Novel Outline (20min)
+• Philosophy - (20min+): The Meaning of Life- A Very Short Introduction by Terry Eagleton (28-34/126), Philosophy of Religion by Tim Bayne (27-35/156) - Classical Theism, Perfect Being Theology (20min)
+
+Wednesday - 15 April, 2026
+• Math - Olympiad - (30min+): Solved Two Algebra Olympiad Questions (30min)
+• Math - Khan Academy - (30min+): Rational Functions - Reduce to Lowest Terms; End Behaviour of Rational Functions; Add & Subtract Rational Functions (30min)
+• Physics - (30min+): Understanding Thermodynamics and The Laws of Thermodynamics with Examples (30min)
+• Write - (20min+): Writing Chapter 1 of Part 2 (20min)
+• Play Guitar - (30min+): Practice (42min)
+• Read - (20min+): Stoner by John Williams (39-105/288) (68min)
+• Psychology - (20min+): Yale Lecture 1: Foundations - The Brain, The Mind and Dualism; Scientific Consensus Against Dualism; The Neuron (30min)
+
+Thursday - 16 April, 2026
+• Workout - Gym Session: Push
+• Programming - Creation - (40min+): Unity Essentials Pathway - 3D Essentials: Make a Tower of Prefab Blocks; Adjust The Light, Background and Camera Angle. Audio Essentials: Create an Immersive Soundscape; 
+• Physics - (30min+): Thermodynamics (30min)
+• Play Guitar - (30min+): Practice (70min)
+• Read - (20min+): Stoner by John Williams (105-132/288) (22min)
+• Write - (20min+): Skip
+
+Friday - 17 April, 2026 
+• Workout - Gym Session: Pull
+• Math - Khan Academy - (30min+): Adding and Subtracting Rational Expressions (Basic), Adding and Subtracting Rational Expressions (30min)
+• Read - (20min+): Stoner by John Williams (132-179/288) (37min)
+
+Saturday - 18 April, 2026
+• Programming - Creation - (40min+): Unity Essentials Pathway - Programming Essentials: Add a Movement Script; Create a Rotating Collectible; Collect the Collectible (40min)
+• Programming - Creation - (40min+): Unity Essentials Pathway - Programming Essentials: Collect The Collectible; Additional Programming Essentuals. 2D Essentials: Set Up a 2D Room; Complete Your 2D Puzzle Game (56min)
+• Programming - LeetCode - (30min+): Beginner Challenge Problems; 1480. Running Sum of 1D Arrays; 1672. Richest Customer Wealth; 412. FizzBuzz (36min)
+• Game Theory - (20min+): Introduction: Five First Lessons (Yale Course): What is Strategy?; Strategy: Where Does It Apply?; Elements of A Game (Strategies, Actions, Outcomes and Payoffs); Strictly Dominant Versus Strictly Dominated Strategies; Contracts and Collisions; The Failure Of Collision And and Inefficient Outcomes: Prisoners Dilemma
+• Guitar (Extra): Spanish Guitar (10min)
+
+Sunday - 19 April, 2026
+• Workout - Gym Session: Lower (Deadlift Based)
+• Programming - Systems - (30min+): CS50, Problem 0 (30min)
+• Programming - Creation - (40min+): Unity Essentials Pathway - 2D Essentials: Add An Animated Pet; 2D Essentials: More Things To Try. Publishing Essentials: Build Your Portfolio Project; Publish to WebGL; Share Your Project (40min)
+• Math - Khan Academy - (30min+): Began College Calculus AB; Unit 1 - Limits and Continuity: Defining Limits & Using Limit Notation; Estimating Limit Values From Graphs (30min)
+• Physics - (30min+): Skip
+• Read - (20min+): Read - (20min+): Stoner by John Williams (179-224/288) (30min)
+• Write - (20min+): Writing Fiction Novel, Part 2, Chapter 1 (20min)
+• Literary Analysis - (20min+): Introduction To The Theory Of Literature (20min)
+• Study For School - (20min+): Math Homework Complete, Biology Homework Half-Done (32min)
+
+Skip (2/2): 
+Thursday - Write
+Sunday - Physics
+Replacement (0/2)
+
+
+
+
+
+Week 2
+Monday - 20 April, 2026
+• Workout - Gym Session: Upper Body
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway: Course Introduction; Unit 1 - Introduction; Lesson 1.1 - Start Your 3D Engines; Lesson 1.2 - Pedal To The Medal (42min)
+• Math - Olympiad - (30min+): The Art of Problem Solving Vol.1: The Basics - 1.1 Integer Exponents; 1.2 Fractional Exponents (30min)
+• Math - Khan Academy - (30min+): Estimating Limit Values From Graphs (30min)
+• Read - (20min+): Stoner by John Williams (224-288/288) (50min)
+• Astronomy - (20min+): General Astronomy - Lecture 1: Introduction, Review, Took Notes (20min)
+
+Tuesday - 21 April, 2026
+• Workout - Gym Session: Lower Body (Squat Based)
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway: Lesson 1.2 - Pedal To The Metal; Lesson 1.3 - High Speed Chase; Lesson 1.4 - Step Into The Driver's Seat (50min)
+• Physics - (30min+): Replacement → • Programming - Creation - (40min+): Unity Junior Programmer Pathway: Challenge 1 - Plane Programming; Lab 1 - Project Design Document; Introduction To Project Management & Teamwork; Quiz 1 - 10/10 (40min)
+• Write - (20min+): Fiction Novel Part 2, Chapter 1 (20min)
+• Philosophy - (20min+): Study On Immanuel Kant (20min)
+• Read (Extra): Don Quixote by Miguel de Cervantes (7-84/736) (120min)
+
+Wednesday - 22 April, 2026
+• Math - Olympiad - (30min+): The Art of Problem Solving Vol.1: The Basics - 1.3 Simplifying Radical Expressions; 1.4 Rationalizing Denominators (30min)
+• Math - Khan Academy - (30min+): Determining Limits Using Algebra Properties Of Limits (Limit Properties) - Limit Properties; Limits Of Combined Functions; Limits Of Combined Functions Piecewise (30min) 
+• Play Guitar - (30min+): Practice (32min)
+• Read - (20min+): Don Quixote by Miguel de Cervantes (84-105/736) (40min)
+• Psychology - (20min+): Foundations: This Is Your Brain - The Different Parts Of The Brain; Mechanical Conception And The Hard Problem Of Consciousness (20min)
+
+Thursday - April 23, 2026
+• Workout - Gym Session: Upper Body
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway: Unit 2: Introduction; Lesson 2.1 - Player Positioning; Step 1 of Lesson 2.2 - Food Flight (40min)
+• Physics - (60min+): College Physics - Unit 1: Thermodynamics: Lesson 1: Gases (60min)
+• Write - (40min+): Fiction Novel Part 2, Chapter 1 (40min)
+• Read - (20min+): Don Quixote by Miguel de Cervantes (105-121/736) (24min)
+
+Friday - April 24, 2026
+• Workout - Gym Session: Lower Body (Deadlift Based)
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway: 2.2 - Food Fight; 2.3 - Random Animal Stampede; 2.4 - Collisions & (Terrible) Decisions (76min)
+• Math - Olympiad - (30min+): The Art of Problem Solving Vol.1: The Basics - 1.4 Rationalizing Denominators (30min)
+• Math - Khan Academy - (30min+): Determining Limits Using Algebra Properties Of Limits (Limit Properties) - Theorem For Limits Of Composite Functions (All Possible Situations); Determining Limits Using Algebra Properties Of Limits (Direct Substitution) - Direct Substitution (30min)
+• Read - (20min+): Don Quixote by Miguel de Cervantes (121-143/736) (30min)
+
+Saturday - April 25, 2026
+No Tasks Completed
+I was in Skopje, and so, I will complete everything for today tomorrow. I bought eight books.
+
+Sunday - April 26, 2026
+• Programming - Systems - (20min+): Computer Systems (Book, 3rd Edition) (20min)
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway: 2.4 - Collisions & (Terrible) Decisions; Debugging; Quiz 2 (9/10) (40min)
+• Programming - LeetCode - (30min+): 1342. Number Of Steps To Reduce a Number To Zero; 9. Palindrome Number (30min)
+• Math - Khan Academy - (30min+): Determining Limits Using Algebra Properties Of Limits (Direct Substitution) - Limits Of Trigonometric Functions; Limits Of Piecewise Functions. Determining Limits Using Algebraic Manipulation - Limits By Factoring (30min)
+• Physics - (30min+): Unit 1: Thermodynamics - Kinetic Molecular Theory (30min)
+• Play Guitar - (30min+): Practice (30min)
+• Read - (20min+): Intermezzo by Sally Rooney (13min), Less Than Zero by Bret Eastin Hills (0-29/195) (22min)
+• Write - (30min+): Fiction Novel Part 2, Chapter 1; Part 2, Chapter 2 (40min)
+• Game Theory - (20min+): Introduction: Five First Lessons (Yale Course): The Failure Of Collision And Inefficient Outcomes: Prisoners Dilemma; Coordination Problems; Lesson Recap (26min)
+• Study For School - (20min+): Biology Homework (18min); Chemistry (6min) (24min)
+
+Skip (0/2):
+Replacement (1/2):
+Tuesday: Physics → Programming (Creation)
+
+
+
+
+
+Week 3
+Monday - 27 April, 2026
+• Math - Olympiad - (30min+): 1.5 Logarithms; Chapter 1 Problems To Solve (1-6/16) (34min)
+• Math - Khan Academy - (30min+): Determining Limits Using Algebraic Manipulation - Limits By Factoring; Limits By Rationalizing (34min)
+• Read - (20min+): Less Than Zero by Bret Easton Ellis (29-56/195) (20min)
+• Astronomy - (20min+): General Astronomy Lecture 3: The Copernican Revolution (20min)
+
+Tuesday - 28 April, 2026
+• Workout - Gym Session: Upper
+• Programming - Creation - (80min+): Unity Junior Programmer Pathway - Quiz - Create Code (11/11); Unit 3 - Introduction; Lesson 3.1 - Jump Force; Lesson 3.2 - Make The World Whiz By (80min)
+• Write - (30min+): Fiction Novel - Part 2, Chapter 2 (34min)
+
+Wednesday - 29 April, 2026
+• Workout - Gym Session: Lower (Squat-Based)
+• Math - Olympiad - (30min+): Chapter 1 Problems To Solve (7-14/16); 2.1 - Square Root Of -1; 2.2 - Complex Number Operations (30min)
+• Math - Khan Academy - (30min+): Determining Limits Using Algebraic Manipulation - Limits Using Pythagorean Theorem; Limits Using Double Angle Theorem; Selecting Procedures For Determining Limits - Strategy In Finding Limits (40min)
+• Physics - (60min+): Thermodynamics - Thermal Energy & Thermal Equilibrium; Laws Of Thermodynamics; Thermodynamic Process’ (60min)
+• Write - (30min+): Fiction Novel - Part 2, Chapter 2 (30min)
+• Play Guitar - (30min+): Learning Supermassive Black Hole by Muse (60min)
+• Read - (20min+): Less Than Zero by Bret Easton Ellis (56-82/195) (20min)
+• Psychology - (20min+): Foundations: Freud - Sigmund Freud In A Historical Context; The Id, Ego, And Superego; Personality Development And Psychosexual Development; Defense Mechanisms, The Aims Of Psychoanalysis, Dreams (30min)
+• Study For School - (20min+): Albanian (20min); Chemistry (5min) (25min)
+
+Thursday - 30 April, 2026
+• Workout - Gym Session: Push
+• Programming - Creation - (40min+): Completed Unity Essentials Pathway; Unity Junior Programmer Pathway - Lesson 3.2 - Make The World Whiz By; Lesson 3.3 Don't Just Stand There (46min)
+• Physics - (40min+): Electric Charge & Electric Force: Conservation Of Charge; Conductors & Insulators; Triboelectric Effect & Charge (40min)
+• Write - (30min+): Fiction Novel - Part 2, Chapter 2 (70min)
+• Read - (20min+): Less Than Zero by Bret Easton Ellis (82-114/195) (20min)
+
+Friday - 1 May, 2026
+• Workout - Gym Session: Pull
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway - Lesson 3.3 Don't Just Stand There; Lesson 3.4 - Particles, Sound Effects (40min)
+• Math - Olympiad - (30min+): 2.2 - Complex Number Operations (30min)
+• Math - Khan Academy - (30min+): Determining Limits Using The Squeeze Theorem; Exploring Types Of Discontinuities; Defining Continuity At A Point (30min)
+• Read - (20min+): Less Than Zero by Bret Easton Ellis (114-151/195) (24min)
+• Write (Extra): Fiction Novel - Part 2, Chapter 3 (35min)
+
+Saturday - 2 May, 2026
+• Workout - Gym Session: Lower (Deadlift-based)
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway - Quiz 3 (10/10); Unit 4 - Introduction; Lesson 4.1 - Watch Where You're Going (40min)
+• Programming - Plan Creation - (30min+): Planned Future Portfolio Project Ideas (50min)
+• Write - (30min+): Fiction Novel - Part 2, Chapter 3 (40min)
+• Study For School - (5min+): Chemistry (30min)
+• Read (Extra): Less Than Zero by Bret Easton Ellis (151-195/195) (25min)
+
+Sunday - 3 May, 2026
+• Programming - Systems - (30min+): Cyber security; Increasing Laptop Security (120min)
+• Math - Khan Academy - (30min+): Defining Continuity At a Point; Continuity At a Point (Graphical); Continuity At a Point (Algebraic); Confirming Continuity At a Point (38min)
+• Physics - (30min+) Replacement -> Research For Summer (40min)
+• Play Guitar - (30min+): Practicing Supermassive Black Hole by Muse (30min)
+• Read - (20min+): Lucien by J. R. Thornton (0-34/308) (22min)
+• Game Theory - (20min+): Lecture 2: Putting Yourselves Into Other People's Shoes - Recap Of Previous Lecture; The Formal Ingredients Of A Game; Weakly Dominant Strategies (20min)
+• Study For School - (20min+): Chemistry (40min)
+
+Skip (0/2): 
+Replacement (1/2): Sunday: Physics -> Research
+
+
+
+
+
+Week 4
+Monday - 4 May, 2026
+• Workout - Gym Session: Upper Body
+• Programming - Creation - (60min+): Unity Junior Programmer Pathway - Gameplay Mechanics: Lesson 4.2 - Follow The Player; Lesson 4.3 - PowerUp And CountDown; Lesson 4.4 - For Loops For Waves (68min)
+• Math - Olympiad - (40min+): The Art Of Problem Solving - Chapter 2: Imaginary Numbers - Problems to Solve For Chapter 2 (17-26/26); Chapter 3: Linear Equations; 3.1 - What Is a Linear Equation?; 3.2 - One Equation, One Variable; 3.3 Two Equations, Two Variables (40min)
+• Math - Khan Academy - (40min+): Confirming Continuity Over Intervals (Specific x-values, All Real Numbers); Removing Discontinuities (Factorization); Removing Discontinuities (Rationalization) (40min)
+• Read - (30min+): Lucien by J. R. Thornton (34-78/308) (30min)
+• Study For School - (20min+): Chemistry (28min)
+• Guitar (Extra): Practice (25min)
+
+Tuesday - 5 May, 2026
+• Workout - Gym Session: Lower (Squat-based)
+• Physics - (30min+): Electric Fields (30min)
+• Write - (30min+): Fiction Novel Part 2, Chapter 3 (32min)
+• Study For School - (20min+): Chemistry (40min)
+• Read (Extra): Lucien by J. R. Thornton (78-156/308) (50min)
+
+Wednesday - 6 May, 2026
+• Math - Olympiad - (20min+): The Art Of Problem Solving - Chapter 3: Linear Equations; 3.3 Two Equations, Two Variables (20min)
+• Math - Khan Academy - (20min+): Connecting Infinite Limits & Vertical Asymptotes (20min) 
+• Play Guitar - (20min+): Learning Every Breath You Take by The Police (20min)
+• Psychology - (20min+): Lecture 2: Freud - Questions & Answers on Freud's Theories; Controversies And Criticisms On Freud's Theories; Examples Of The Unconscious In Modern Psychology; Further Q&As On Freud (26min)
+• Study For School - (30min+): Chemistry: Project (30min), Macedonian Homework (40min) (70min)
+• Write - (20min+): Did It On Saturday Instead 
+• Read - (20min+): Lucien by J. R. Thornton (156-222/308) (45min)
+
+Thursday - 7 May, 2026
+• Workout - Gym Session: Push
+• Programming - Creation - (30min+): Unity Junior Programmer Pathway - User Interface: Unit 5 - Introduction; Lesson 5.1  - Clicky Mouse (30min)
+• Write - (20min+): Fiction Novel Part 2, Chapter 3 (20min)
+• Read - (20min+): Lucien by J. R. Thornton (222-308/308) (55min)
+• Study For School - Chemistry, Albanian - (30min+):           Chemistry (20min), Albanian (10min) (30min)
+
+Friday - 8 May, 2026
+• Workout - Gym Session: Pull
+• Programming - Creation - (30min+): Unity Junior Programmer Pathway - User Interface: Lesson 5.1  - Clicky Mouse; Lesson 5.2 - Keeping Score (35min)
+• Math - Olympiad - (20min+): The Art Of Problem Solving - Chapter 3: Linear Equations; 3.4 Word Problems (15min)
+• Math - Khan Academy - (20min+): Connecting Infinite Limits & Vertical Asymptotes; Connecting Limits At Infinity & Horizontal Asymptotes (24min) 
+• Read - (20min+): A Man Called Ove by Fredrik Backman (0-113/294) (98mins)
+• Study For School - (30min+): Albanian (5min), Chemistry (25min) (30min)
+
+Saturday - 9 May, 2026
+• Workout - Gym Session: Lower (Deadlift-Based)
+• Programming - Creation - (30min+): Unity Junior Programmer Pathway - User Interface: Lesson 5.2 - Keeping Score; Lesson 5.3 - Game Over (34min)
+• Programming - ISC2 Cybersecurity Preparation - (30min+): Course Introduction & Pre-Assessment, 66/100 Answers Correct (42min)
+• Write - (50min+): Fiction Novel Part 2 Chapter 3 & Chapter 4 (50min)
+• Study For School - (30min+): Chemistry (40min)
+
+Sunday - 10 May, 2026
+• Programming - ISC2 - (30min+): Domain 1 - Security Principles; Completed 100% Competency With 16/16 Correct (40min)
+• Math - Khan Academy - (30min+): Connecting Limits At Infinity & Horizontal Asymptotes; Intermediate Value Theorem (30min)
+• Play Guitar - (30min+): Supermassive Black Hole Recorded, Learning Every Breath You Take (35min)
+• Read - (20min+): A Man Called Ove by Fredrik Backman (113-138/294) (22mins) 
+• Study For School - (20min+): History (24min)
+
+Skip (1/2): Sunday - Physics
+Replacement (0/2):
+
+
+
+
+
+Week 5
+Monday - May 11, 2026
+• Workout - Gym Session: Upper
+• Programming - Creation - (30min+): Unity Junior Programmer Pathway - User Interface: Lesson 5.3 - Game Over; Lesson 5.4 - What's The Difficulty?; Quiz 5 (10/10) (36min)
+• Math - Olympiad - (20min+): The Art Of Problem Solving - Chapter 4: Proportions; 4.1 - Direct & Inverse (20min)
+• Math - Khan Academy - (20min+): College Calculus AB - Unit 2: Differentiation: Definition & Basic Derivative Rules - Defining Average And Instantaneous Rates Of Change At a Point (20min)
+• Read - (20min+): A Man Called Ove by Fredrik Backman (138-203/294) (60mins) 
+• Study For School (20min+): History (20min)
+
+Tuesday -  May 12, 2026
+• Workout - Gym Session: Lower (Squat-Based)
+• Programming - Creation - (30min+):  Unity Junior Programmer Pathway - Publishing Your Project: Lesson 6.0 - Introduction; Lesson 6.1 - Project Optimization; Lesson 6.2 - Research & Troubleshooting (30min)
+• Write - (30min+): Fiction Novel - Part 2, Chapter 4 (20min)
+• Study For School - Chemistry, Albanian (20min+): Albanian (20min), Chemistry (30min)
+• Read (Extra):  A Man Called Ove by Fredrik Backman (203-294/294) (76mins) 
+
+Wednesday - May 13, 2026
+• Math - Olympiad - (20min+): The Art Of Problem Solving - Chapter 4: Proportions; 4.1 - Direct & Inverse; 4.2 - Manipulating Proportions; 4.3 - Conversion Factors; 4.4 - Percent (20min)
+• Math - Khan Academy - (20min+): College Calculus AB - Unit 2: Differentiation: Definition & Basic Derivative Rules - Defining Average And Instantaneous Rates Of Change At a Point (20min)
+• Physics - (20min+): Static Electricity; The Triboelectric Effect (20min)
+• Write - (20min+):  Fiction Novel - Part 2, Chapter 4 (25min)
+• Play Guitar - (30min+): Learning Every Breath You Take by The Police; Learning Adventure Of A Lifetime by Coldplay (30min)
+• Read - (20min+): My Friends by Fredrik Backman (0-47/434) (45min)
+• Psychology - (20min+): Lecture 4: Skinner - A Brief Review On The Unconscious; B. F Skinner & Behaviourism; Habituation: The Very Simplest Form Of Learning; Classical Conditioning: Associating Stimulus (20min)
+• Study For School - Chemistry, Albanian (20min+): Chemistry (30min), Albanian (15min) (45min)
+
+Thursday - May 14, 2026
+• Workout - Gym Session: Push
+• Programming - Creation - (40min+): Unity Junior Programmer Pathway: Completed 8 Units (70min)
+• Write - (20min+): Fiction Novel - Part 2, Chapter 4 (20min)
+• Read - (20min+): My Friends by Fredrik Backman (47-113/434) (52min)
+• Study For School - (20min+): Albanian (20min)
+• Guitar (Extra): Adventure Of A Lifetime (20min)
+
+Friday - May 15, 2026
+• Workout - Gym Session: Pull
+• Math - Olympiad - (20min+): The Art Of Problem Solving - Chapter 4: Proportions; 4.4 - Percent; Chapter 5: Using The Integers; 5.1 - Divisibility; 5.2 - Number Bases; 5.3 - The Last Digit; 5.4 - Modular Arithmetic (20min)
+• Math - Khan Academy - (20min+): College Calculus AB - Unit 2: Differentiation: Definition & Basic Derivative Rules - Defining Average And Instantaneous Rates Of Change At a Point (20min)
+• Read - (20min+): My Friends by Fredrik Backman (113-193/434) (55min)
+• Study For School (30min+): Albanian (40min)
+
+Saturday - May 16, 2026
+• Workout - Gym Session: Lower (Deadlift-Based)
+• Programming - Creation - (40min+): Fixing Yesterday’s Issues With Flutter; TryHackMe - Neighbour & CyberHeroes Challenges Completed; Random Side Quests (90min)
+• Programming - ISC2 - (30min+): Domain 2 - Incident Response, Business Continuity & Disaster Recovery Concepts; Completed 100% Competency With 10/13 Correct (35min)
+• Write - (30min+): Fiction Novel - Part 2, Chapter 4 (46min)
+• Guitar (Extra): Adventure Of A Lifetime (10min)
+• Study For School - (30min+): Biology (24min)
+• Draw (Extra): Drawabox Lesson 0 - Getting Started; Lesson 1 -  Lines (50min)
+
+Sunday - May 17, 2026
+• Programming - Cyber Security - (30min+):  TryHackMe: Introduction To Cyber security - Offensive Security Intro; Defensive Security Intro; Careers In Cyber; What Is Networking?; TryHackMe Nax Room Challenge Half-Completed (82min)
+• Math - Khan Academy - (20min+): Skip
+• Play Guitar - (30min+): Practice (30min)
+• Read - (20min+):  My Friends by Fredrik Backman (193-227/434) (24min)
+• Study For School - Biology, Macedonian (20min+): Biology (58min), Macedonian (50min)
+
+Skip (1/2): Sunday - Math
+Replacement (0/2):
+
+
+
+
+
+Week 6 
+this week was simplified with less to do due to daily tests in school, with more rest so as to avoid burn out.
+
+Monday - May 18, 2026
+• Workout - Gym Session: Upper
+• Math - Olympiad - (20min+): Solving Olympiad Problem - Sigma 139, Q2 (22min)
+• Math - Khan Academy - (20min+): College Calculus AB - Unit 2: Differentiation: Definition & Basic Derivative Rules - Lesson 2. Defining The Derivative Of a Function & Using Derivative Notation; Lesson 3. Estimating Derivatives Of a Function At a Point (24min)
+• Read - (20min+): My Friends by Fredrik Backman (227-260/434) (24min)
+• Study For School (20min+): Biology (40min), Macedonian (65min) 
+
+
+Tuesday - May 19, 2026
+• Programming - Creation - (60min+): Cybersecurity CyLab: The Beginner's Guide To The Challenge Library (54min)
+• Study For School (20min+): Macedonian (40min), German (45min)
+• Read (Extra): My Friends by Fredrik Backman (260-434/434) (115min)
+
+Wednesday - May 20, 2026
+• Programming - Creation - (30min+): ICSC Competition 2026, Solved A, (Partially) B (46min) 
+• Read - (20min+): Intermezzo by Sally Rooney (19-57/437) (34min)
+• Psychology - (20min+): Lecture 4: Skinner - Classical Conditioning: Associating Stimulus; Operant Conditioning: Operating On The Environment (20min)
+• Study For School (20min+): German (20min), Physics (40min)
+• Drawing (Extra): Figure Drawing By Using References For 60s-240s (50min)
+ 
+Thursday - May 20, 2026
+• Workout - Gym Session: Push 
+• Programming - Cybersecurity - (20min+): Investigating Viruses (20min)
+• Math - Olympiad - (20min+): Solving Olympiad Problem - Sigma 139, Q4 (28min)
+• Read - (20min+): The Awakening by Kate Chopin (0-70/178) (62min)
+• Study For School (20min+): Physics (20min), Turkish (40min)
+
+Friday - May 22, 2026
+• Workout - Gym Session: Pull
+• Read - (20min+): The Awakening by Kate Chopin (70-95/178) (24min)
+• Study For School: Turkish (30min)
+• Draw (Extra): Figure Drawing - “Rest” (40min)
+
+Saturday - May 23, 2026
+• Workout - Gym Session: Lower (Deadlift-Based)
+• Programming - Cybersecurity - (30min+): Domain 3: Access Control Concepts - Complete (12/14 Accuracy) (30min)
+• Draw (Extra): Figure Drawing - “Rest” (30min) 
+
+Sunday - May 24, 2026
+• Play Guitar - (30min+): Practice (30min)
+• Read - (20min+):  The Awakening by Kate Chopin (95-127/178) (25min)
+• Study For School (20min+): Math (42min)
+• Summer Planning: Complete (150min)
+
+
+
+
+Week 7
+Monday - May 25, 2026 [TEST 0.1]
+Cyber Security - 40min: The Web Application Hacker's Handbook - Chapter 1; Computer Hardware; Troubleshooting Basics (40min)
+Game Dev. - 40min: Unity - 2D Beginner: Adventure Game - Introduction; Set Up a 2D Player Character; Create a Basic 2D Gameplay Environment (40min)
+App Dev. - 40min: Setting Up Flutter; Setting Up Android Emulator; Running Hello World (40min)
+LeetCode - 30min: Studying CPP; CPP Functions; Created GitHub Repository Logging CPP Journey & CPP Projects (30min) 
+Front/Backend - 30min: The Odin Project - Introduction; Prerequisites: How Does The Web Work?; Installations; Text Editors; Command Line Basics; Setting Up Git (30min)
+Databases - 30min: SQLZoo - SELECT Basics; Quiz Complete 7/7; Stanford Course: Databases: Relational Databases & SQL: Introduction & Relational Databases (30min)
+Gym - Upper: Complete
+Math - 30min: Solved Book Sigma 138 Rubric Problems - Q1876, Q1877 (30min)
+Read - 20min: The Awakening by Kate Chopin (127-159/178) (20min) 
+
+Tuesday - May 26, 2026 [TEST 0.2]
+Cyber Security - 40min: Basics of Popular Suites; Basics Of Computer Networking; Operating Systems; ISC2 Domain 4: Network Security (40min)
+Game Dev. - 40min: Create a Basic 2D Gameplay Environment; Read Keyboard Input To Control 2D Character Movement (40min)
+App Dev. - 40min: Flutter Guide - Widgets Inside Widgets; Widgets vs Arguments; Data Types; Mouse Over (40min)
+Web Dev. - 30min: Setting Up WSL & Downloading Linux Ubuntu; Setting Up Git (30min)
+Databases - 30min: Stanford Course: Databases: Relational Databases & SQL: The Relational Model; Querying Rational Database; SQLZoo - SELECT From World: Q1-Q6 Complete (30min)
+Cloud & DevOps - 30min: AWS Cloud Practitioner Essentials - Module 1: Introduction To The Cloud - Introduction; The AWS Cloud (30min)
+Gym - Lower (Squat-Based): Complete
+Write - 30min: Working on Fiction Novel Outline - Chapter 5; Chapter 6; Chapter 7 (40min)
+Read (Extra): The Awakening by Kate Chopin (159-178/178) (15min)
+
+Wednesday - May 27, 2026
+• Cyber Security - 40min: ISC2 Domain 4: Network Security - Complete, 20/27 (40min)
+• Game Development - 40min: Player Character & Movement:  Read Keyboard Input To Control 2D Character Movement; Create Input Actions For Player Character Movement; Make Your Grame Frame Rate Independent; Game Environment & Physics: Design & Paint Your Game Tilemap (40min)
+• App Development - 40min: Created Github Repository of Flutter Learning Journey; Flutter Guide - Columns; Rows; Center; Images (40min)
+• LeetCode - 30min: Learn CPP - Functions (30min)
+• Frontend/Backend - 30min: Git Basics - Introduction To Git; Git Basics; HTML Foundations - Introduction To HTML & CSS; Elements & Tags (30min)
+• Web Development - 30min: Created web-dev-journey Github Repository; HTML Foundations - Elements & Tags; HTML Boilerplate; Working with Text (30min)
+• Write - 30min: Working on Fiction Novel Outline - Chapter 7; Chapter 8 (34min)
+• Read - 20min: Oedipus The King by Sophocles (0-80/80) (35min)
+• Guitar - 20min: Practice (30min)
+• Study For School (Extra): Math (25min)
+I'm not supposed to study this much today, but I don't have school again because of a holiday, so I decided I would anyway. I used the Thursday schedule and changed it by swapping out the gym for guitar.
+
+Thursday - May 28, 2026
+• Gym - Push: Complete 
+• Math - 30min: Introduction To Geometry by Richard Rusczyk - Chapter 1: What's In a Name? - 1.1 Why Names & Symbols?; Points, Lines & Planes; Round & Round (30min)
+• Physics - 30min: Skip
+• Write - 30min: Working on Fiction Novel Outline - Chapter 8; Chapter 9 (30min)
+• Read - 20min: The Master & The Margarita by Mikhail Bulgakov (0-31/396) (30min)
+• Study For School (Extra): Geography (30min)
+
+Friday - May 29, 2026
+• Gym - Pull: Complete
+• Cyber Security - 40min: TryHackMe - Jr. Penetration Testing: CSRF Introduction (48min)
+• Game Development - 40min: 2D Beginner: Adventure Game - Design & Paint Your Game Tilemap; Create Decorative Objects Using Sprites (40min)
+• Web Development - 30min: HTML Foundations - Working with Text; Lists; Links With Images (30min)
+• Read - 20min: The Master & The Margarita by Mikhail Bulgakov (31-51/396) (24min)
+• Write (Extra): Working On Fiction Novel Outline - Chapter 9; Chapter 10 (65min)
+
+Saturday - May 30, 2026
+• Gym - Legs (Deadlift-Based): Complete 
+• Programming - ISC2 Preparation - (30min+): Domain 5: Security Operations (30min)
+• App Development - 40min: Extensions; Stack; Padding; SizedBox; Icon; ListPile; Print (40min)
+• Math - Olympiad - 30min: Solved Book Sigma 138 Rubric Problems - Q1878; Q1885 (35min)
+• Write - (30min+): Working On Fiction Novel Outline - Chapter 10 (30min)
+• Guitar (Extra): Practicing Still Loving You by The Scorpions (30min)
+
+Sunday - May 31, 2026
+• Guitar - 20min: Practicing Still Loving You by The Scorpions (30min)
+• Math - Olympiad - 30min: Sigma 139 - Second Year Regional Competition 15.02.2025 - Question 1A (Sigma 130, Rubric Question 1764); Question 1B (Sigma 132, Classroom Question 1) (30min)
+• Math - Geometry - 30min: Introduction To Geometry by Richard Rusczyk - Chapter 1: What's In a Name? - 1.4 - Construction: Copy A Segment; 1.5 - The Burden Of Proof; 1.6 - Summary; Chapter 2: Angles - 2.1 - What Is An Angle?; 2.2 - Measuring Angles; 2.3 - Straight & Vertical Angles; 2.4 - Parallel Lines (30min)
+• Physics - 30min: Electric Fields (30min)
+• Write - 30min: Writing Fiction Novel - Chapter 4; Chapter 5 (30min)
+• Read - 20min: Oedipus At Colonus by Sophocles (0-102/102) (35min)
+• Cloud & DevOps - 30min: AWS Cloud Practitioner Essentials - Module 1: Introduction To AWS Global Infrastructure; The AWS Shared Responsibility Model; Applying Cloud Concepts To Real Life Use Cases; Module 2: Compute In The Cloud - Introduction To Amazon EC2 (30min)
+
+
+
+
+
+Week 8
+Monday - June 1, 2026
+Cyber Security - 40min: ISC2 CC - Domain 5 Complete, 15/19; Redid Self Assessment (40min)
+Game Dev. - 40min: 2D Beginner: Adventure Game - Remade Whole Project in Different 2D Template; Game Environment & Physics - Create Decorative Objects Using Sprites; Implement Object Collisions For Your 2D Game (60min)
+App Dev. - 40min: Flutter Beginner Course by Mitch Coco: 1 - Programming Fundamentals (40min)
+LeetCode - 30min: Learn CPP - Chapter 2: C++ Basics: Functions & Files - 2.7 Forward Declarations & Definitions; 2.8 Programs With Multiple Code Files; 2.9 Naming Collisions & Introduction To Namespaces; 2.10 Introduction To The Preprocessor; 2.11 Header Files (30min)
+Front/Backend - 30min: HTML Foundations - Links And Images; Commit Messages (30min)
+Databases - 30min: Stanford Course: Databases: Relational Databases & SQL: Introduction To SQL; Basic SELECT Statement; Table Variables & Set Operators (30min)
+Gym - Upper: Complete
+Math - Olympiad - 30min: Sigma 139 - Second Year Regional Competition 15.02.2025 - Question 1B (Sigma 132, Classroom Question 1); Question 2A (30min)
+Read - 20min: The Odyssey by Homer (190-257/1073) (26min)
+Write (Extra): Writing Fiction Novel - Chapter 5 (55min)
+I got home at 3pm again, and today was very tiring.
+I changed the flutter course I was using because I didn't like the first one.
+
+Tuesday - June 2, 2026
+Cyber Security - 40min: How Hackers Use SQL Injection To Get Into Websites; How Hackers Use Burp Suite To Get Into Websites; SQL Injection Prevention; Types Of SQL Injections (42min)
+Game Dev. - 40min: 2D Beginner: Adventure Game - Game Environment & Physics - Implement Object Collisions For Your 2D Game; Set Up Tilemap Collision; Set Up a Basic Health System; Create a Health Collectible Using Triggers (40min)
+App Dev. - 40min: Flutter Beginner Course by Mitch Coco: 2 - Everything Is a Widget (40min)
+Web Dev. - 30min: HTML Foundations - Recipe (Project); Fixed Git Mistakes (38min)
+Databases - 30min: Free Code Camp: Relational Databases - Code Editors: Working With Code Editors & IDEs; Bash Fundamentals: Understanding The Command Line & Working With Bash; Build A Boilerplate (30min)
+Cloud & DevOps - 30min: AWS Cloud Practitioner Essentials - Module 2: Compute In the Cloud - Introduction to Amazon EC2; Amazon EC2 Instance Types; How to Provision AWS Resources; Demo: Launching an Amazon EC2 Instance; Amazon EC2 Pricing; Scaling Amazon EC2 (30min)
+Gym - Lower (Squat-Based): Complete
+Write - 30min: Writing Fiction Novel - Chapter 5; Chapter 6 (32min)
+Read (Extra): The Odyssey by Homer (257-290/1073) (16min)
+
+Wednesday - June 3, 2026
+Guitar - 20min: Practicing Still Loving You by The Scorpions (40min)
+Math - Olympiad - 30min: Sigma 139 - Second Year Regional Competition 15.02.2025 - Question 2B: Question 4AB; Sigma 138 - Solutions From Sigma 137 Rubric - Q1861 (60min)
+Physics - 30min: Solving Olympiad Problem (10min)
+Write - 30min: Writing Fiction Novel - Chapter 6; Chapter 7 (32min)
+Read - 20min: The Odyssey by Homer (290-354/1073) (31min)
+
+Thursday - June 4, 2026
+Cyber Security - 40min: ISC2 - CC Course Conclusion & Final Assessment (85/100) (40min)
+Game Dev. - 40min: 2D Beginner: Adventure Game - Create a Health Collectible Using Triggers; Check Character Health Before Destroying Collectibles; Add Damage Zone To Decrease Health (Static Hazards); Made Github Repository For 2D Adventure Game (40min)
+App Dev. - 40min: Flutter Beginner Course by Mitch Coco: 3 - Navigation; 4 - Stateful vs Stateless Widgets (40min)
+LeetCode - 30min: Beginner LeetCode Tips; Watching Tutorial On Solving C++ Leetcode - Two Sums (30min)
+Front/Backend - 30min: HTML Foundations - Recipe Project (30min)
+Web Dev. - 30min: HTML Foundations - Recipe Project (35min)
+Gym - Upper: Complete
+Write - 30min: Writing Fiction Novel - Chapter 7 (30min)
+Read - 20min: The Odyssey by Homer (354-419/1073) (31min)
+
+Friday - June 5, 2026
+Cyber Security - 40min: TryHackMe Presecurity - Module 2. Network Fundamentals: Intro To LAN; OSI Model; Packets & Frames; Extending Your Network (42min)
+Game Dev. - 40min: 2D Beginner: Adventure Game - Heads-up UI Display - Create a Health Display with UI Toolkit; Display Character Health on the UI (40min)
+App Dev. - 30min: Flutter Docs - 2. Create a Flutter App; 3. Widget Fundamentals; 4. Layout Widgets On a Screen (30min)
+Web Dev. - 30min: CSS Foundations - Intro to CSS; CSS Project 1 - CSS Methods (42min)
+Cloud & DevOps - 30min: AWS Cloud Practitioner Essentials - Module 2: Compute In the Cloud - Scaling Amazon EC2; Directing Traffic with Elastic Load Balancing; Messaging and Queuing; Assessment; Module Summary; Module 3 - Exploring Compute Services: Introduction to Serverless Computing; AWS Lambda (30min)
+Gym - Lower (Deadlift-Based): Complete 
+Read - 20min: The Odyssey by Homer (419-528/1073) (30min)
+Decreased the time a little bit on tasks today because today was a special day.
+Today is (basically) the last day of school, which means that I'll thankfully not have to go to school anymore.
+I got a tryhackme subscription today!
